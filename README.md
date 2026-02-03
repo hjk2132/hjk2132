@@ -68,5 +68,6 @@
 - 🥈 수상(우수상): 2023 어드벤처디자인경진대회 (스마트 알약 디스펜서)  
 
 **2022**  
-- 🎨 생성형 AI 모델 활용 및 Fine-tuning 경험 (Stable Diffusion, So-vits-svc 등)
+- 🎨 생성형 AI 모델 활용 및 Fine-tuning 경험 (Stable Diffusion, vits 등)
+
 
